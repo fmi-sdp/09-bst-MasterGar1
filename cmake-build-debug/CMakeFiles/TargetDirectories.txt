@@ -1,0 +1,3 @@
+C:/Users/garig/Desktop/UNI/SDP/09-bst-MasterGar1/cmake-build-debug/CMakeFiles/09_bst_MasterGar1.dir
+C:/Users/garig/Desktop/UNI/SDP/09-bst-MasterGar1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garig/Desktop/UNI/SDP/09-bst-MasterGar1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
